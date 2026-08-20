@@ -1,0 +1,70 @@
+{
+  "version": "1.1.0",
+  "updated_at": "2026-08-08",
+  "bags": [
+    {
+      "id": "mcm_bag_001",
+      "name": "아렌 E/W 비세토스 토트백 (스몰)",
+      "category": "Tote Bag",
+      "price": "890,000",
+      "color": "Soft Pink",
+      "color_kor": "소프트 핑크",
+      "material": "Visetos Monogram Canvas & Nappa Leather",
+      "dimensions": "19.0 x 27.0 x 10.0 cm",
+      "capacity_level": "Medium-Small (스마트폰, 지갑, 화장품 파우치, 소형 텀블러 수납 가능)",
+      "style_keywords": ["Romantic", "Lovely", "Casual Luxury", "Point Color"],
+      "practicality": "탈부착 가능한 숄더 스트랩으로 토트 및 크로스바디 2-Way 연출 가능, 은은한 핑크 톤으로 사계절 포인트 아이템",
+      "coordination_tips": "화이트/아이보리/베이지 계열의 밝은 룩이나 모노톤 착장에 러블리하고 고급스러운 포인트로 추천",
+      "image_url": "https://images.mcmworldwide.com/i/mcmworldwide/MWSGATA01PZ001_01/aren-e-w-soft-pink-s?$w1000$&fmt=auto&qlt=default",
+      "product_url": "https://kr.mcmworldwide.com/ko_KR/women/bags/totes/MWSGATA01PZ001.html"
+    },
+    {
+      "id": "mcm_bag_002",
+      "name": "디아망 3D 비세토스 숄더백 (미디움)",
+      "category": "Shoulder Bag",
+      "price": "1,150,000",
+      "color": "Black",
+      "color_kor": "블랙",
+      "material": "3D Embossed Leather & Visetos Canvas",
+      "dimensions": "21.0 x 29.0 x 11.0 cm",
+      "capacity_level": "Medium (지갑, 파우치, 태블릿/소형 소지품 넉넉하게 수납)",
+      "style_keywords": ["Chic", "Modern", "Futuristic", "Luxury"],
+      "practicality": "입체적인 3D 디테일로 독보적인 입체감을 주며, 단단한 쉐입으로 내용물 보호 및 세련된 실루엣 유지",
+      "coordination_tips": "올 블랙 룩, 슬랙스 셋업, 가죽 자켓 등 도회적이고 시크한 스타일링을 완성할 때 적합",
+      "image_url": "https://images.mcmworldwide.com/i/mcmworldwide/MWSFSAK01BK001_01/diamant-3d-black-m?$w1000$&fmt=auto&qlt=default",
+      "product_url": "https://kr.mcmworldwide.com/ko_KR/women/bags/shoulder-bags/MWSFSAK01BK001.html"
+    },
+    {
+      "id": "mcm_bag_003",
+      "name": "아렌 E/W 비세토스 토트백 (스몰)",
+      "category": "Tote Bag",
+      "price": "890,000",
+      "color": "Black",
+      "color_kor": "블랙",
+      "material": "Visetos Monogram Canvas & Nappa Leather",
+      "dimensions": "19.0 x 27.0 x 10.0 cm",
+      "capacity_level": "Medium-Small (데일리 소지품, 지갑, 파우치 수납 가능)",
+      "style_keywords": ["Minimal", "Daily", "Classic", "Monochrome"],
+      "practicality": "어떤 착장에도 무난하게 어울리는 스테디셀러 블랙 색상, 가볍고 편안한 착용감",
+      "coordination_tips": "캐주얼 데님 룩부터 깔끔한 모노톤 오피스 룩까지 매일 활용하기 가장 좋은 미니멀 데일리 백",
+      "image_url": "https://images.mcmworldwide.com/i/mcmworldwide/MWSGATA01BK001_01/aren-e-w-black-s?$w1000$&fmt=auto&qlt=default",
+      "product_url": "https://kr.mcmworldwide.com/ko_KR/women/bags/totes/MWSGATA01BK001.html"
+    },
+    {
+      "id": "mcm_bag_004",
+      "name": "아렌 비세토스 탑핸들 숄더백 (스몰)",
+      "category": "Shoulder Bag",
+      "price": "920,000",
+      "color": "Black",
+      "color_kor": "블랙",
+      "material": "Visetos Monogram Canvas & Leather Trim",
+      "dimensions": "18.0 x 25.0 x 9.5 cm",
+      "capacity_level": "Small-Medium (필수 소지품, 화장품, 스마트폰 수납)",
+      "style_keywords": ["Formal", "Elegant", "Classic", "Modern"],
+      "practicality": "상단 탑 핸들로 드레스업 룩 연출 가능하며, 스트랩 연결 시 깔끔한 크로스바디로 활용 가능",
+      "coordination_tips": "격식 있는 자리, 데이트 룩, 자켓 및 코트 스타일에 클래식함을 더해주는 세련된 매칭",
+      "image_url": "https://images.mcmworldwide.com/i/mcmworldwide/MWRGATA05BK001_01/aren-black-s?$w1000$&fmt=auto&qlt=default",
+      "product_url": "https://kr.mcmworldwide.com/ko_KR/women/bags/shoulder-bags/MWRGATA05BK001.html"
+    }
+  ]
+}
